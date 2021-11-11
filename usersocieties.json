@@ -1,0 +1,566 @@
+[{
+  "_id": {
+    "$oid": "607701780518011214ffab39"
+  },
+  "nameUser": "Maryse",
+  "roleUser": "entreprise",
+  "addressMail": "maryse@live.fr",
+  "addressSociety": "144 rue de Surville 69008 lyon",
+  "login": "maryse",
+  "password": "maryse!",
+  "nameSociety": "HauteCouture",
+  "__v": 18,
+  "_products": [
+    {
+      "$oid": "608980c8dab7e229f023e51b"
+    },
+    {
+      "$oid": "6089834ead90e21418e1d5b1"
+    },
+    {
+      "$oid": "6089835ead90e21418e1d5b2"
+    }
+  ],
+  "_pubs": [
+    {
+      "$oid": "60ec4b5c38980f41305f5b48"
+    },
+    {
+      "$oid": "60ec8768781c613e241fe6e5"
+    },
+    {
+      "$oid": "60ec877c781c613e241fe6e7"
+    },
+    {
+      "$oid": "60ec878a781c613e241fe6e9"
+    },
+    {
+      "$oid": "60ec89c3781c613e241fe6eb"
+    },
+    {
+      "$oid": "60ec8a997343911aa89cf413"
+    },
+    {
+      "$oid": "60ec9b5bef1eaa38e08cd074"
+    }
+  ],
+  "_conversation": [
+    {
+      "$oid": "60f68bc12d0fce2a0429b818"
+    },
+    {
+      "$oid": "60f698811d5dbb1e88691029"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "608987206dc4b42a1402f978"
+  },
+  "_products": [
+    {
+      "$oid": "608987496dc4b42a1402f97a"
+    },
+    {
+      "$oid": "60895550a22e7a379075f2ec"
+    },
+    {
+      "$oid": "60895598a22e7a379075f2ee"
+    },
+    {
+      "$oid": "6089578b9ca7584278ed2a86"
+    },
+    {
+      "$oid": "60e226e8302f61436898fa62"
+    },
+    {
+      "$oid": "60e2295d63de4e35f0b0fa89"
+    },
+    {
+      "$oid": "60e2329feb7a5235d8d75e83"
+    }
+  ],
+  "nameUser": "Yorane",
+  "roleUser": "entreprise",
+  "addressMail": "yorance@live.fr",
+  "addressSociety": "photographe",
+  "login": "yorane",
+  "password": "yorane",
+  "nameSociety": "AbbouDABIE",
+  "__v": 7
+},{
+  "_id": {
+    "$oid": "60e08d832e32f73770bbb181"
+  },
+  "_products": [],
+  "nameUser": "jour",
+  "roleUser": "entreprise",
+  "addressMail": "jour@gmail.com",
+  "addressSociety": "jour",
+  "password": "jour",
+  "nameSociety": "jour",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e093da04a9e60944a07d2b"
+  },
+  "_products": [],
+  "nameUser": "entreprise",
+  "roleUser": "entreprise",
+  "addressMail": "entreprise",
+  "addressSociety": "entreprise",
+  "password": "entreprise",
+  "nameSociety": "entreprise",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e0945604a9e60944a07d2c"
+  },
+  "_products": [],
+  "nameUser": "mangas",
+  "roleUser": "entreprise",
+  "addressMail": "mangas@gmail.com",
+  "addressSociety": "mangas",
+  "password": "mangas",
+  "nameSociety": "mangas",
+  "__v": 0,
+  "tokenPayment": "tok_1JEtI9DHgX1AEz0p9ZuTRFPe"
+},{
+  "_id": {
+    "$oid": "60e095500def0d2b905a90a6"
+  },
+  "_products": [],
+  "nameUser": "horloge",
+  "roleUser": "entreprise",
+  "addressMail": "horloge@gmail.com",
+  "addressSociety": "horloge",
+  "password": "horloge",
+  "nameSociety": "horloge",
+  "__v": 0,
+  "tokenPayment": "tok_1JEt9sDHgX1AEz0pn2Y9nBAn"
+},{
+  "_id": {
+    "$oid": "60e095bc0def0d2b905a90a7"
+  },
+  "_products": [],
+  "nameUser": "eminem",
+  "roleUser": "entreprise",
+  "addressMail": "eminem",
+  "addressSociety": "eminem",
+  "password": "eminem",
+  "nameSociety": "eminem",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e096110def0d2b905a90a8"
+  },
+  "_products": [],
+  "nameUser": "papaya",
+  "roleUser": "entreprise",
+  "addressMail": "papaya",
+  "addressSociety": "papaya",
+  "password": "papaya",
+  "nameSociety": "papaya",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e096810def0d2b905a90a9"
+  },
+  "_products": [],
+  "nameUser": "poisson",
+  "roleUser": "entreprise",
+  "addressMail": "poisson",
+  "addressSociety": "poisson",
+  "password": "poisson",
+  "nameSociety": "poisson",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e097590def0d2b905a90aa"
+  },
+  "_products": [],
+  "nameUser": "lampe",
+  "roleUser": "entreprise",
+  "addressMail": "lampe",
+  "addressSociety": "lampe",
+  "password": "lampe",
+  "nameSociety": "lampe",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e09bda0def0d2b905a90b0"
+  },
+  "_products": [],
+  "nameUser": "test",
+  "roleUser": "entreprise",
+  "addressMail": "test",
+  "addressSociety": "test",
+  "password": "test",
+  "nameSociety": "test",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e09c350def0d2b905a90b2"
+  },
+  "_products": [],
+  "nameUser": "lkjhg",
+  "roleUser": "entreprise",
+  "addressMail": "lkjhg",
+  "addressSociety": "lkjhg",
+  "password": "lkjhg",
+  "nameSociety": "lkjhg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e0a3dd0def0d2b905a90c6"
+  },
+  "_products": [],
+  "nameUser": "i",
+  "roleUser": "entreprise",
+  "addressMail": "i",
+  "addressSociety": "i",
+  "password": "i",
+  "nameSociety": "i",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e0a3fa0def0d2b905a90c7"
+  },
+  "_products": [
+    {
+      "$oid": "60eda8e3f0c7d441e40717fa"
+    }
+  ],
+  "nameUser": "he",
+  "roleUser": "entreprise",
+  "addressMail": "h@gmail.com",
+  "addressSociety": "h",
+  "password": "h",
+  "nameSociety": "h",
+  "__v": 16,
+  "_pubs": [
+    {
+      "$oid": "60eca9f652b1b12afcf14e6f"
+    },
+    {
+      "$oid": "60ecaa0252b1b12afcf14e72"
+    },
+    {
+      "$oid": "60ed6ad0a41f093ac8255984"
+    },
+    {
+      "$oid": "60ed6d452e7f4005e8de0420"
+    },
+    {
+      "$oid": "60ed74302223c90080027ef7"
+    },
+    {
+      "$oid": "60eda94af0c7d441e40717fd"
+    },
+    {
+      "$oid": "60edc05df0c7d441e4071803"
+    },
+    {
+      "$oid": "60ef5567d11ede11a8df2c09"
+    },
+    {
+      "$oid": "60f53ecadc69ca18b437c8a3"
+    },
+    {
+      "$oid": "60f7137edb8a43294898d638"
+    },
+    {
+      "$oid": "60f853f64c7142246077f488"
+    },
+    {
+      "$oid": "60fe6dc641852f32bccd3d69"
+    }
+  ],
+  "tokenPayment": "tok_1JFISvDHgX1AEz0pmXCMQEIY",
+  "_conversation": [
+    {
+      "$oid": "60f6c7f2a67d7b15c485f223"
+    },
+    {
+      "$oid": "60f6d9e0db8a43294898d634"
+    },
+    {
+      "$oid": "60ffdb6da0018c450815caa8"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60e20c8afd80ff0738c0fb2d"
+  },
+  "_products": [],
+  "nameUser": "x",
+  "roleUser": "entreprise",
+  "addressMail": "x",
+  "addressSociety": "x",
+  "password": "x",
+  "nameSociety": "x",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e2ca34c7bd933e2c99814e"
+  },
+  "_products": [],
+  "nameUser": "v",
+  "roleUser": "entreprise",
+  "addressMail": "v",
+  "addressSociety": "v",
+  "password": "v",
+  "nameSociety": "v",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e2cfc3c7bd933e2c998151"
+  },
+  "_products": [],
+  "nameUser": "nje",
+  "roleUser": "entreprise",
+  "addressMail": "nje",
+  "addressSociety": "nj",
+  "password": "nje",
+  "nameSociety": "nj",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e6d2816bdc4631d0a58599"
+  },
+  "_products": [
+    {
+      "$oid": "60e6d28b6bdc4631d0a5859a"
+    }
+  ],
+  "nameUser": "hey",
+  "roleUser": "entreprise",
+  "addressMail": "hey",
+  "addressSociety": "hey",
+  "password": "hey",
+  "nameSociety": "hey",
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "60e80b05f20ebc36f0967ec0"
+  },
+  "_products": [
+    {
+      "$oid": "60e80b38f20ebc36f0967ec1"
+    }
+  ],
+  "nameUser": "entreprise",
+  "roleUser": "entreprise",
+  "addressMail": "entreprise@gmail.com",
+  "addressSociety": "entreprise",
+  "password": "entreprise",
+  "nameSociety": "entreprise",
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "60ef52e3d11ede11a8df2c01"
+  },
+  "_products": [
+    {
+      "$oid": "60ef5323d11ede11a8df2c02"
+    }
+  ],
+  "_pubs": [],
+  "nameUser": "patricia",
+  "roleUser": "entreprise",
+  "addressMail": "patricia",
+  "addressSociety": "patricia",
+  "password": "patricia",
+  "nameSociety": "patricia",
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "60f5441a1908c923846d0d13"
+  },
+  "_products": [],
+  "_pubs": [],
+  "nameUser": "g",
+  "roleUser": "entreprise",
+  "addressMail": "g",
+  "addressSociety": "g",
+  "password": "g",
+  "nameSociety": "g",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f5442a1908c923846d0d14"
+  },
+  "_products": [],
+  "_pubs": [],
+  "nameUser": "bliblak",
+  "roleUser": "entreprise",
+  "addressMail": "bliblak",
+  "addressSociety": "bliblak",
+  "password": "bliblak",
+  "nameSociety": "bliblak",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f5444c1908c923846d0d15"
+  },
+  "_products": [],
+  "_pubs": [],
+  "nameUser": "azertyui",
+  "roleUser": "entreprise",
+  "addressMail": "azertyui@gmail.com",
+  "addressSociety": "azertyui",
+  "password": "azertyui",
+  "nameSociety": "azertyui",
+  "__v": 0,
+  "tokenPayment": "tok_1JEt6qDHgX1AEz0pB03Bsfz2"
+},{
+  "_id": {
+    "$oid": "60f544771908c923846d0d16"
+  },
+  "_products": [],
+  "_pubs": [],
+  "nameUser": "Frédérique PICOUT RODRIGUEZ",
+  "roleUser": "entreprise",
+  "addressMail": "picout.frederique@live.fr",
+  "addressSociety": "22 rue Paul Bert, A45",
+  "password": "fred",
+  "nameSociety": "fredSociety",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f5456a2a381931e84997c8"
+  },
+  "_products": [],
+  "_pubs": [],
+  "nameUser": "Sid-Ahmed Boukais",
+  "roleUser": "entreprise",
+  "addressMail": "frederiquepicout@gmail.com",
+  "addressSociety": "255 route de vienne",
+  "password": "fred",
+  "nameSociety": "sidetfred",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f545bf84af312c08558e48"
+  },
+  "_products": [],
+  "_pubs": [],
+  "nameUser": "Sid-Ahmed Boukais",
+  "roleUser": "entreprise",
+  "addressMail": "picout.frederique@live.fr",
+  "addressSociety": "255 route de vienne",
+  "password": "sid",
+  "nameSociety": "Sid-Ahmed Boukais",
+  "__v": 0,
+  "tokenPayment": "tok_1JEstaDHgX1AEz0peQq790Sw"
+},{
+  "_id": {
+    "$oid": "60f547bf828a8c20947324db"
+  },
+  "_products": [],
+  "_pubs": [],
+  "nameUser": "Frédérique PICOUT RODRIGUEZ",
+  "roleUser": "entreprise",
+  "addressMail": "picout.frederique@live.fr",
+  "addressSociety": "22 rue Paul Bert, A45",
+  "password": "fred",
+  "nameSociety": "fred&co",
+  "__v": 0,
+  "tokenPayment": "tok_1JEsucDHgX1AEz0peQun3QcL"
+},{
+  "_id": {
+    "$oid": "60f5490a828a8c20947324dc"
+  },
+  "_products": [],
+  "_pubs": [],
+  "nameUser": "Sid-Ahmed Boukais",
+  "roleUser": "entreprise",
+  "addressMail": "frederiquepicout@gmail.com",
+  "addressSociety": "255 route de vienne",
+  "password": "fred",
+  "nameSociety": "Fred&SidCorporation",
+  "__v": 0,
+  "tokenPayment": "tok_1JEt05DHgX1AEz0pTeR4DTIJ"
+},{
+  "_id": {
+    "$oid": "60ffc6507ed59a2864f77bf7"
+  },
+  "_products": [],
+  "_pubs": [],
+  "_conversation": [],
+  "nameUser": "entrepriseOne",
+  "roleUser": "entreprise",
+  "addressMail": "entrepriseOne@gmail.com",
+  "addressSociety": "entrepriseOne",
+  "password": "entrepriseOne",
+  "nameSociety": "entrepriseOne",
+  "__v": 0,
+  "tokenPayment": "tok_1JHmWXDHgX1AEz0pMdojUJ4F"
+},{
+  "_id": {
+    "$oid": "60ffd1787ed59a2864f77bf8"
+  },
+  "_products": [],
+  "_pubs": [],
+  "_conversation": [],
+  "nameUser": "entrepriseTwo",
+  "roleUser": "entreprise",
+  "addressMail": "entrepriseTwo@gmail.com",
+  "addressSociety": "entrepriseTwo",
+  "password": "entrepriseTwo",
+  "nameSociety": "entrepriseTwo",
+  "__v": 0,
+  "tokenPayment": "tok_1JHmfaDHgX1AEz0pEtwjGQQF"
+},{
+  "_id": {
+    "$oid": "60ffd634c0c5f645807ec3d2"
+  },
+  "_products": [],
+  "_pubs": [],
+  "_conversation": [],
+  "nameUser": "entrepriseTrois",
+  "roleUser": "entreprise",
+  "addressMail": "entrepriseTrois@gmail.com",
+  "addressSociety": "entrepriseTrois",
+  "password": "entrepriseTrois",
+  "nameSociety": "entrepriseTrois",
+  "__v": 0,
+  "tokenPayment": "tok_1JHmtJDHgX1AEz0p2mNlUmRK"
+},{
+  "_id": {
+    "$oid": "60ffd7e5c0c5f645807ec3d3"
+  },
+  "_products": [],
+  "_pubs": [],
+  "_conversation": [],
+  "nameUser": "entrepriseFour",
+  "roleUser": "entreprise",
+  "addressMail": "entrepriseFour@gmail.com",
+  "addressSociety": "entrepriseFour",
+  "password": "entrepriseFour",
+  "nameSociety": "entrepriseFour",
+  "__v": 0,
+  "tokenPayment": "tok_1JHn09DHgX1AEz0pdc5k9uLG"
+},{
+  "_id": {
+    "$oid": "60ffd8c0c0c5f645807ec3d4"
+  },
+  "_products": [],
+  "_pubs": [
+    {
+      "$oid": "60ffdae4a0018c450815caa2"
+    },
+    {
+      "$oid": "60ffdb10a0018c450815caa5"
+    }
+  ],
+  "_conversation": [],
+  "nameUser": "entrepriseFive",
+  "roleUser": "entreprise",
+  "addressMail": "entrepriseFive@gmail.com",
+  "addressSociety": "entrepriseFive",
+  "password": "entrepriseFive",
+  "nameSociety": "entrepriseFive",
+  "__v": 2,
+  "idCustomerStripe": "cus_JveS63iS4YTdmH",
+  "tokenPayment": "tok_1JHn9nDHgX1AEz0p8Sks1Bit"
+}]

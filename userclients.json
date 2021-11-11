@@ -1,0 +1,788 @@
+[{
+  "_id": {
+    "$oid": "6089b356f5b44941a87a6cfd"
+  },
+  "_events": [],
+  "nom": "bouteil deau",
+  "role": "client",
+  "adresseMail": "eau",
+  "login": "eau",
+  "password": "eau",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6089b37ff5b44941a87a6cfe"
+  },
+  "_events": [],
+  "nom": "joseph",
+  "role": "client",
+  "adresseMail": "joseph",
+  "login": "joseph",
+  "password": "joseph",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6089b388f5b44941a87a6cff"
+  },
+  "_events": [
+    {
+      "$oid": "6089b3eff5b44941a87a6d00"
+    },
+    {
+      "$oid": "6089b3fbf5b44941a87a6d01"
+    },
+    {
+      "$oid": "60e45d442476dc263485c6c5"
+    },
+    {
+      "$oid": "60e45d5b2476dc263485c6c6"
+    },
+    {
+      "$oid": "60e45d7b2476dc263485c6c7"
+    },
+    {
+      "$oid": "60e4670e2476dc263485c6c8"
+    },
+    {
+      "$oid": "60e467572476dc263485c6c9"
+    },
+    {
+      "$oid": "60e467632476dc263485c6ca"
+    },
+    {
+      "$oid": "60e4677e2476dc263485c6cb"
+    },
+    {
+      "$oid": "60e5e9141402211f0832268e"
+    },
+    {
+      "$oid": "60e80a96f20ebc36f0967ebc"
+    },
+    {
+      "$oid": "60eda96af0c7d441e40717fe"
+    },
+    {
+      "$oid": "60edbfeef0c7d441e40717ff"
+    },
+    {
+      "$oid": "60ef53a8d11ede11a8df2c04"
+    }
+  ],
+  "nom": "damsoDums",
+  "role": "client",
+  "adresseMail": "damso",
+  "login": "damso",
+  "password": "",
+  "__v": 19,
+  "_conversation": [
+    {
+      "$oid": "60f68ba62d0fce2a0429b816"
+    },
+    {
+      "$oid": "60f68bc12d0fce2a0429b818"
+    },
+    {
+      "$oid": "60f698811d5dbb1e88691029"
+    },
+    {
+      "$oid": "60f6c7f2a67d7b15c485f223"
+    },
+    {
+      "$oid": "60f6d9e0db8a43294898d634"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60dd656f3e185a08c8e3ff14"
+  },
+  "_events": [
+    {
+      "$oid": "60e334678ba22038984f5de5"
+    },
+    {
+      "$oid": "60e334aeae63673ba0644d1a"
+    },
+    {
+      "$oid": "60e334d348223736e40f4861"
+    },
+    {
+      "$oid": "60e334fa7e37c9457c9d3aad"
+    },
+    {
+      "$oid": "60e335a8b3b6b424a8db8dcf"
+    },
+    {
+      "$oid": "60e336f4bbe94e404cc4028b"
+    },
+    {
+      "$oid": "60e33703bbe94e404cc4028c"
+    },
+    {
+      "$oid": "60e3373154f51b3ec41c134f"
+    }
+  ],
+  "nom": "frede",
+  "role": "client",
+  "adresseMail": "picout.frederique@ive.fr",
+  "login": "fred",
+  "password": "fred",
+  "__v": 8
+},{
+  "_id": {
+    "$oid": "60de08023e185a08c8e3ff28"
+  },
+  "_events": [],
+  "nom": "F PICOUT",
+  "role": "client",
+  "adresseMail": "frederiquepicout@gmail.com",
+  "login": "F PICOUT",
+  "password": "test",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60de08033e185a08c8e3ff29"
+  },
+  "_events": [],
+  "nom": "F PICOUT",
+  "role": "client",
+  "adresseMail": "frederiquepicout@gmail.com",
+  "login": "F PICOUT",
+  "password": "test",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60de0a24258aeb106c036aec"
+  },
+  "nom": "F PICOUT",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60de0afa258aeb106c036aee"
+  },
+  "nom": "10",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60de0d786bf2b51d24951df7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60dee60c6727cf30e844a8df"
+  },
+  "nom": "zizi",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60def2043bf8b029e8f7d9ab"
+  },
+  "_events": [],
+  "nom": "maryse",
+  "role": "client",
+  "adresseMail": "maryse@maryse.fr",
+  "login": "maryse",
+  "password": "maryse",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60def2ac3bf8b029e8f7d9ad"
+  },
+  "_events": [],
+  "nom": "moussier",
+  "role": "client",
+  "adresseMail": "moussier@moussier.fr",
+  "login": "moussier",
+  "password": "moussier",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60def3573bf8b029e8f7d9ae"
+  },
+  "_events": [],
+  "nom": "fatal",
+  "role": "client",
+  "adresseMail": "fatal@fatal.fr",
+  "login": "fatal",
+  "password": "fatal",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60def4093bf8b029e8f7d9af"
+  },
+  "_events": [],
+  "nom": "tik",
+  "role": "client",
+  "adresseMail": "tik@tik.fr",
+  "login": "tik",
+  "password": "tik",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60def42f3bf8b029e8f7d9b0"
+  },
+  "_events": [],
+  "nom": "tok",
+  "role": "client",
+  "adresseMail": "tok@tok.fr",
+  "login": "tok",
+  "password": "tok",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60def5e23bf8b029e8f7d9b1"
+  },
+  "_events": [],
+  "nom": "boy",
+  "role": "client",
+  "adresseMail": "boy@boy.fr",
+  "login": "boy",
+  "password": "boy",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60def61d3bf8b029e8f7d9b2"
+  },
+  "_events": [],
+  "nom": "beyonce",
+  "role": "client",
+  "adresseMail": "beyonce@beyonce.fr",
+  "login": "beyonce",
+  "password": "beyonce",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60def65d3bf8b029e8f7d9b3"
+  },
+  "_events": [],
+  "nom": "beyonce",
+  "role": "client",
+  "adresseMail": "beyonce@beyonce.fr",
+  "login": "beyonce",
+  "password": "beyonce",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60def8803bf8b029e8f7d9b4"
+  },
+  "_events": [],
+  "nom": "lol",
+  "role": "client",
+  "adresseMail": "lol@lol.fr",
+  "login": "lol",
+  "password": "lol",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e07f6c660d3c34706dc216"
+  },
+  "_events": [],
+  "nom": "anne",
+  "role": "client",
+  "adresseMail": "anne@anne.fr",
+  "login": "anne",
+  "password": "anne",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e07fda660d3c34706dc217"
+  },
+  "_events": [],
+  "nom": "port",
+  "role": "client",
+  "adresseMail": "port@port.fr",
+  "login": "port",
+  "password": "port",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e081d48d1fbd04fccb2645"
+  },
+  "_events": [],
+  "nom": "karim",
+  "role": "client",
+  "adresseMail": "karim@karim.fr",
+  "password": "karim",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e082828d1fbd04fccb2647"
+  },
+  "_events": [
+    {
+      "$oid": "6089b40df5b44941a87a6d02"
+    },
+    {
+      "$oid": "60e3580c0f9f1611d895c6fb"
+    }
+  ],
+  "nom": "claude",
+  "role": "client",
+  "adresseMail": "claude@claude.fr",
+  "login": "claude",
+  "password": "claude",
+  "__v": 2
+},{
+  "_id": {
+    "$oid": "60e082c88d1fbd04fccb2648"
+  },
+  "_events": [],
+  "nom": "martine",
+  "role": "client",
+  "adresseMail": "martine@martine.fr",
+  "login": "martine",
+  "password": "martine",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e082e88d1fbd04fccb2649"
+  },
+  "_events": [],
+  "nom": "karima",
+  "role": "client",
+  "adresseMail": "karima@karima.fr",
+  "password": "karima",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e0837baaffe83ef0996424"
+  },
+  "_events": [],
+  "nom": "kari",
+  "role": "client",
+  "adresseMail": "kari@kari.fr",
+  "password": "kari",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e083983e4cbe2f50aa4e2a"
+  },
+  "_events": [],
+  "nom": "tata",
+  "role": "client",
+  "adresseMail": "tata@tata.fr",
+  "password": "tata",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e083ce3e4cbe2f50aa4e2b"
+  },
+  "_events": [],
+  "nom": "tonton",
+  "role": "client",
+  "adresseMail": "tonton@tonton.fr",
+  "login": "tonton",
+  "password": "tonton",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e083d33e4cbe2f50aa4e2c"
+  },
+  "_events": [],
+  "nom": "tonton",
+  "role": "client",
+  "adresseMail": "tonton@tonton.fr",
+  "login": "tonton",
+  "password": "tonton",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e083d83e4cbe2f50aa4e2d"
+  },
+  "_events": [],
+  "nom": "tonton",
+  "role": "client",
+  "adresseMail": "tonton@tonton.fr",
+  "login": "tonton",
+  "password": "tonton",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e083d83e4cbe2f50aa4e2e"
+  },
+  "_events": [],
+  "nom": "tonton",
+  "role": "client",
+  "adresseMail": "tonton@tonton.fr",
+  "login": "tonton",
+  "password": "tonton",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e083d83e4cbe2f50aa4e2f"
+  },
+  "_events": [],
+  "nom": "tonton",
+  "role": "client",
+  "adresseMail": "tonton@tonton.fr",
+  "login": "tonton",
+  "password": "tonton",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e083d93e4cbe2f50aa4e30"
+  },
+  "_events": [],
+  "nom": "tonton",
+  "role": "client",
+  "adresseMail": "tonton@tonton.fr",
+  "login": "tonton",
+  "password": "tonton",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e084123e4cbe2f50aa4e31"
+  },
+  "_events": [],
+  "nom": "el",
+  "role": "client",
+  "adresseMail": "el@el.fr",
+  "login": "el",
+  "password": "el",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e084403e4cbe2f50aa4e32"
+  },
+  "_events": [],
+  "nom": "papa",
+  "role": "client",
+  "adresseMail": "papa@papa.fr",
+  "login": "papa",
+  "password": "papa@pap",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e0849f3e4cbe2f50aa4e33"
+  },
+  "_events": [],
+  "nom": "da",
+  "role": "client",
+  "adresseMail": "da@da",
+  "login": "da",
+  "password": "da",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e084b73e4cbe2f50aa4e34"
+  },
+  "_events": [],
+  "nom": "de",
+  "role": "client",
+  "adresseMail": "de@",
+  "login": "de",
+  "password": "de",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e0855e3e4cbe2f50aa4e35"
+  },
+  "_events": [],
+  "nom": "s",
+  "role": "client",
+  "adresseMail": "s@",
+  "login": "s",
+  "password": "s",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e085d43e4cbe2f50aa4e36"
+  },
+  "_events": [],
+  "nom": "f",
+  "role": "client",
+  "adresseMail": "f@",
+  "login": "f",
+  "password": "f",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e086123e4cbe2f50aa4e37"
+  },
+  "_events": [],
+  "nom": "m",
+  "role": "client",
+  "adresseMail": "m@",
+  "login": "m",
+  "password": "m",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e0864e3e4cbe2f50aa4e38"
+  },
+  "_events": [],
+  "nom": "g",
+  "role": "client",
+  "adresseMail": "g",
+  "login": "g",
+  "password": "g",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e086713e4cbe2f50aa4e39"
+  },
+  "_events": [],
+  "nom": "b",
+  "role": "client",
+  "adresseMail": "b",
+  "login": "b",
+  "password": "b",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e0977d0def0d2b905a90ab"
+  },
+  "_events": [],
+  "nom": "bla",
+  "role": "client",
+  "adresseMail": "bla",
+  "password": "bla",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e0994b0def0d2b905a90ac"
+  },
+  "_events": [],
+  "nom": "sid",
+  "role": "client",
+  "adresseMail": "sid",
+  "password": "sid",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e09ab70def0d2b905a90ad"
+  },
+  "_events": [],
+  "nom": "cv",
+  "role": "client",
+  "adresseMail": "cv",
+  "password": "cv",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e09b4b0def0d2b905a90ae"
+  },
+  "_events": [],
+  "nom": "tata",
+  "role": "client",
+  "adresseMail": "tata@tata.fr",
+  "password": "tata",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e09bb80def0d2b905a90af"
+  },
+  "_events": [],
+  "nom": "lolo",
+  "role": "client",
+  "adresseMail": "lolo",
+  "password": "lolo",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e09c220def0d2b905a90b1"
+  },
+  "_events": [],
+  "nom": "kjhgv",
+  "role": "client",
+  "adresseMail": "kjhgv",
+  "password": "kjhgv",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e09c5a0def0d2b905a90b3"
+  },
+  "_events": [],
+  "nom": "pl",
+  "role": "client",
+  "adresseMail": "pl",
+  "password": "pl",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e09c9b0def0d2b905a90b4"
+  },
+  "_events": [],
+  "nom": "iuytr",
+  "role": "client",
+  "adresseMail": "iuytr",
+  "password": "iuytr",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e09d570def0d2b905a90b5"
+  },
+  "_events": [],
+  "nom": "kjhg",
+  "role": "client",
+  "adresseMail": "kjhg",
+  "password": "kjhg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e09d890def0d2b905a90b6"
+  },
+  "_events": [],
+  "nom": "pop",
+  "role": "client",
+  "adresseMail": "pop",
+  "password": "pop",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e09db70def0d2b905a90b7"
+  },
+  "_events": [],
+  "nom": "ljhgf",
+  "role": "client",
+  "adresseMail": "ljhgf",
+  "password": "ljhgf",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e09ddd0def0d2b905a90b8"
+  },
+  "_events": [],
+  "nom": "ghbfrt",
+  "role": "client",
+  "adresseMail": "ghbfrt",
+  "password": "ghbfrt",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e09df50def0d2b905a90b9"
+  },
+  "_events": [],
+  "nom": "nb",
+  "role": "client",
+  "adresseMail": "nb",
+  "password": "nb",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e09e3d0def0d2b905a90ba"
+  },
+  "_events": [],
+  "nom": "hgb",
+  "role": "client",
+  "adresseMail": "hgb",
+  "password": "hgb",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e09f810def0d2b905a90bb"
+  },
+  "_events": [],
+  "nom": "yh",
+  "role": "client",
+  "adresseMail": "yh",
+  "password": "yh",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e09fe80def0d2b905a90bc"
+  },
+  "_events": [],
+  "nom": "f",
+  "role": "client",
+  "adresseMail": "f",
+  "password": "f",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e0a0050def0d2b905a90bd"
+  },
+  "_events": [],
+  "nom": "g",
+  "role": "client",
+  "adresseMail": "g",
+  "password": "g",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e0a0180def0d2b905a90be"
+  },
+  "_events": [],
+  "nom": "z",
+  "role": "client",
+  "adresseMail": "z",
+  "password": "z",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e0a01b0def0d2b905a90bf"
+  },
+  "_events": [],
+  "nom": "z",
+  "role": "client",
+  "adresseMail": "z",
+  "password": "z",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e0a3070def0d2b905a90c2"
+  },
+  "_events": [],
+  "nom": "n",
+  "role": "client",
+  "adresseMail": "n",
+  "password": "n",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e0a36f0def0d2b905a90c3"
+  },
+  "_events": [],
+  "nom": "y",
+  "role": "client",
+  "adresseMail": "y",
+  "password": "y",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e0a3840def0d2b905a90c4"
+  },
+  "_events": [],
+  "nom": "k",
+  "role": "client",
+  "adresseMail": "k",
+  "password": "k",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e0a3cf0def0d2b905a90c5"
+  },
+  "_events": [],
+  "nom": "j",
+  "role": "client",
+  "adresseMail": "j",
+  "password": "j",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e342f6d8c4f316bce19753"
+  },
+  "_events": [
+    {
+      "$oid": "60e342fad8c4f316bce19754"
+    }
+  ],
+  "nom": "max",
+  "role": "client",
+  "adresseMail": "max",
+  "password": "max",
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "60e3446b74614143ccb5fcd0"
+  },
+  "_events": [
+    {
+      "$oid": "60e3446f74614143ccb5fcd1"
+    }
+  ],
+  "nom": "w",
+  "role": "client",
+  "adresseMail": "w",
+  "password": "w",
+  "__v": 1
+}]

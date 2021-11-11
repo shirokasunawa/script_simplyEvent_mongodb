@@ -1,0 +1,169 @@
+[{
+  "_id": {
+    "$oid": "60ec8a997343911aa89cf413"
+  },
+  "endroit": "banner",
+  "typeAbo": "abonnement",
+  "dateFin": "2021-07-13",
+  "__v": 0,
+  "img": {
+    "$oid": "60ec8a997343911aa89cf412"
+  }
+},{
+  "_id": {
+    "$oid": "60ec9b5bef1eaa38e08cd074"
+  },
+  "endroit": "coter",
+  "typeAbo": "emplacement",
+  "dateFin": "2021-07-13",
+  "__v": 0,
+  "img": {
+    "$oid": "60ec9b5bef1eaa38e08cd073"
+  }
+},{
+  "_id": {
+    "$oid": "60ecaa0252b1b12afcf14e72"
+  },
+  "endroit": "banner",
+  "typeAbo": "emplacement",
+  "dateFin": "2021-07-13",
+  "__v": 0,
+  "img": {
+    "$oid": "60ecaa0252b1b12afcf14e71"
+  }
+},{
+  "_id": {
+    "$oid": "60ed6d452e7f4005e8de0420"
+  },
+  "endroit": "modal",
+  "typeAbo": "nbrclick",
+  "nbrClick": 100,
+  "nbrClickReel": 1111,
+  "__v": 0,
+  "img": {
+    "$oid": "60ed6d452e7f4005e8de041f"
+  }
+},{
+  "_id": {
+    "$oid": "60ed74302223c90080027ef7"
+  },
+  "endroit": "modal",
+  "typeAbo": "nbrclick",
+  "nbrClick": 100,
+  "nbrClickReel": 1111,
+  "__v": 0,
+  "img": {
+    "$oid": "60ed74302223c90080027ef6"
+  }
+},{
+  "_id": {
+    "$oid": "60eda94af0c7d441e40717fd"
+  },
+  "endroit": "coter",
+  "typeAbo": "emplacement",
+  "dateFin": "2021-07-14",
+  "__v": 0,
+  "img": {
+    "$oid": "60eda94af0c7d441e40717fc"
+  }
+},{
+  "_id": {
+    "$oid": "60edc05df0c7d441e4071803"
+  },
+  "endroit": "banner",
+  "typeAbo": "emplacement",
+  "dateFin": "2021-07-14",
+  "__v": 0,
+  "img": {
+    "$oid": "60edc05df0c7d441e4071802"
+  }
+},{
+  "_id": {
+    "$oid": "60ef5567d11ede11a8df2c09"
+  },
+  "endroit": "modal",
+  "typeAbo": "emplacement",
+  "dateFin": "2021-07-15",
+  "__v": 0,
+  "img": {
+    "$oid": "60ef5567d11ede11a8df2c08"
+  }
+},{
+  "_id": {
+    "$oid": "60f53ecadc69ca18b437c8a3"
+  },
+  "endroit": "modal",
+  "typeAbo": "nbrclick",
+  "nbrClick": 100,
+  "nbrClickReel": 1111,
+  "__v": 0,
+  "img": {
+    "$oid": "60f53ecadc69ca18b437c8a2"
+  }
+},{
+  "_id": {
+    "$oid": "60f7137edb8a43294898d638"
+  },
+  "endroit": "banner",
+  "typeAbo": "abonnement",
+  "dateFin": "2021-07-21",
+  "__v": 0,
+  "img": {
+    "$oid": "60f7137edb8a43294898d637"
+  }
+},{
+  "_id": {
+    "$oid": "60f853f64c7142246077f488"
+  },
+  "endroit": "coter",
+  "typeAbo": "emplacement",
+  "dateFin": "2021-07-22",
+  "__v": 0,
+  "img": {
+    "$oid": "60f853f64c7142246077f487"
+  }
+},{
+  "_id": {
+    "$oid": "60fe6dc641852f32bccd3d69"
+  },
+  "endroit": "coter",
+  "typeAbo": "emplacement",
+  "dateFin": "2021-07-27",
+  "__v": 0,
+  "img": {
+    "$oid": "60fe6dc641852f32bccd3d68"
+  }
+},{
+  "_id": {
+    "$oid": "60ffda72a0018c450815caa1"
+  },
+  "endroit": "banner",
+  "typeAbo": "emplacement",
+  "dateFin": "2021-07-28",
+  "__v": 0,
+  "img": {
+    "$oid": "60ffda5ca0018c450815caa0"
+  }
+},{
+  "_id": {
+    "$oid": "60ffdae4a0018c450815caa2"
+  },
+  "endroit": "banner",
+  "typeAbo": "emplacement",
+  "dateFin": "2021-07-28",
+  "__v": 0,
+  "img": {
+    "$oid": "60ffda5ca0018c450815caa0"
+  }
+},{
+  "_id": {
+    "$oid": "60ffdb10a0018c450815caa5"
+  },
+  "endroit": "banner",
+  "typeAbo": "abonnement",
+  "dateFin": "2021-07-28",
+  "__v": 0,
+  "img": {
+    "$oid": "60ffdafca0018c450815caa4"
+  }
+}]

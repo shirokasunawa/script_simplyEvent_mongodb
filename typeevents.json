@@ -1,0 +1,12 @@
+[{
+  "_id": {
+    "$oid": "60dc65e518b5ad83a547e8e9"
+  },
+  "libelle": "mariage"
+},{
+  "_id": {
+    "$oid": "60dc6676c3b0c215e42ced34"
+  },
+  "libelle": "anniversaire",
+  "__v": 0
+}]

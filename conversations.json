@@ -1,0 +1,135 @@
+[{
+  "_id": {
+    "$oid": "60ad17000ee54539e8365335"
+  },
+  "_messagesClient": [
+    {
+      "$oid": "6098fd299395e427ec162a29"
+    }
+  ],
+  "_messagesSociety": [
+    null,
+    {
+      "$oid": "60ad1c2d2764fe31a8ccd5e9"
+    }
+  ],
+  "_idUserClient": {
+    "$oid": "6089b388f5b44941a87a6cff"
+  },
+  "_idUserSociety": {
+    "$oid": "608987206dc4b42a1402f978"
+  },
+  "__v": 3
+},{
+  "_id": {
+    "$oid": "60f68b602d0fce2a0429b815"
+  },
+  "_messagesClient": [],
+  "_messagesSociety": [],
+  "_idUserClient": {
+    "$oid": "6089b388f5b44941a87a6cff"
+  },
+  "_idUserSociety": {
+    "$oid": "607701780518011214ffab39"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f698811d5dbb1e88691029"
+  },
+  "_messagesClient": [
+    {
+      "$oid": "60f6b802a67d7b15c485f220"
+    },
+    {
+      "$oid": "60f6bcd3a67d7b15c485f221"
+    },
+    {
+      "$oid": "60f6c29ca67d7b15c485f222"
+    }
+  ],
+  "_messagesSociety": [],
+  "_product": {
+    "$oid": "6089834ead90e21418e1d5b1"
+  },
+  "_idUserClient": {
+    "$oid": "6089b388f5b44941a87a6cff"
+  },
+  "_idUserSociety": {
+    "$oid": "607701780518011214ffab39"
+  },
+  "__v": 3
+},{
+  "_id": {
+    "$oid": "60f6c7f2a67d7b15c485f223"
+  },
+  "_messagesClient": [
+    {
+      "$oid": "60f6c896a67d7b15c485f225"
+    },
+    {
+      "$oid": "60f6cbbcd533161818dd740c"
+    }
+  ],
+  "_messagesSociety": [
+    {
+      "$oid": "60f6cd51db8a43294898d633"
+    }
+  ],
+  "_product": {
+    "$oid": "60eda8e3f0c7d441e40717fa"
+  },
+  "_idUserClient": {
+    "$oid": "6089b388f5b44941a87a6cff"
+  },
+  "_idUserSociety": {
+    "$oid": "60e0a3fa0def0d2b905a90c7"
+  },
+  "__v": 3
+},{
+  "_id": {
+    "$oid": "60f6d9e0db8a43294898d634"
+  },
+  "_messagesClient": [
+    {
+      "$oid": "60f6d9e8db8a43294898d635"
+    },
+    {
+      "$oid": "60ffdb81a0018c450815caa9"
+    }
+  ],
+  "_messagesSociety": [
+    {
+      "$oid": "60f6efb8db8a43294898d636"
+    },
+    {
+      "$oid": "60ffdb9fa0018c450815caaa"
+    }
+  ],
+  "_product": {
+    "$oid": "60eda8e3f0c7d441e40717fa"
+  },
+  "_idUserClient": {
+    "$oid": "6089b388f5b44941a87a6cff"
+  },
+  "_idUserSociety": {
+    "$oid": "60e0a3fa0def0d2b905a90c7"
+  },
+  "__v": 4
+},{
+  "_id": {
+    "$oid": "60ffdb6da0018c450815caa8"
+  },
+  "_messagesClient": [],
+  "_messagesSociety": [],
+  "_product": {
+    "$oid": "60eda8e3f0c7d441e40717fa"
+  },
+  "_idUserClient": {
+    "$oid": "6089b388f5b44941a87a6cff"
+  },
+  "_idUserSociety": {
+    "$oid": "60e0a3fa0def0d2b905a90c7"
+  },
+  "__v": 0
+}]
